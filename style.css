@@ -14,6 +14,10 @@ h1{
     margin: auto;
 }
 
+#my-name-is{
+    text-align: center;
+}
+
 body{
     background-color: rgba(145, 153, 152, 0.63);
 }
