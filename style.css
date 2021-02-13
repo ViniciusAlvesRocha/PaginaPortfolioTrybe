@@ -4,6 +4,16 @@ h1{
 #about, #aboutParagraph{
     font-family: sans-serif;
 }
+
+#div-selfie, #div-description{
+    display: inline-block
+}
+
+#div-description{
+    text-align: center;
+    margin: auto;
+}
+
 body{
     background-color: rgba(145, 153, 152, 0.63);
 }
