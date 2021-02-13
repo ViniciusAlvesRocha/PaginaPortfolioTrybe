@@ -14,6 +14,11 @@ h1{
     margin: auto;
 }
 
+#div-selfie{
+    padding: 8px;
+    background-color: rgb(24, 122, 122);
+}
+
 #my-name-is{
     text-align: center;
 }
