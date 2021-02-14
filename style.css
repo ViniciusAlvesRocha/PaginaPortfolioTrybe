@@ -1,6 +1,10 @@
 h1{
     font-family: 'Dancing Script'
 }
+.odd{/*odd significa ímpar*/
+    background-color: rgb(142, 160, 160);
+    list-style-type: square;
+}
 
 #about, #aboutParagraph{
     font-family: sans-serif;
